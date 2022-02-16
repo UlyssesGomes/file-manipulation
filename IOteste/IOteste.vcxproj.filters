@@ -26,9 +26,6 @@
     <ClInclude Include="IODataFile.h">
       <Filter>Arquivos de Recurso</Filter>
     </ClInclude>
-    <ClInclude Include="Types.h">
-      <Filter>Arquivos de Recurso</Filter>
-    </ClInclude>
     <ClInclude Include="User.h">
       <Filter>Arquivos de Recurso</Filter>
     </ClInclude>

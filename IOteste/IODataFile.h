@@ -1,14 +1,14 @@
 /**********************************************************************************
-// Catalog (Arquivo de Cabeçalho)
+// Catalog (Header File)
 //
-// Criação:		31 Jan 2022
-//	Autor:		Ulysses Gomes
-// Atualização:	31 Jan 2022
-//	Autor:		Ulysses Gomes
-// Compilador:	Visual C++ 19
+// Created:		31 Jan 2022
+//	Author:		Ulysses Gomes
+// Updated:		31 Jan 2022
+//	Author:		Ulysses Gomes
+// Compiler:	Visual C++ 19
 //
-// Descrição:	Classe com abstração para leitura e escrita de arquivos
-//				texto e binário.
+// Description:	Write and read files class abstraction to manipulate text
+//				and binary files
 //
 **********************************************************************************/
 

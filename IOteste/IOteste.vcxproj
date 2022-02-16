@@ -145,7 +145,6 @@
   <ItemGroup>
     <ClInclude Include="IODataFile.h" />
     <ClInclude Include="IOFileException.h" />
-    <ClInclude Include="Types.h" />
     <ClInclude Include="User.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
