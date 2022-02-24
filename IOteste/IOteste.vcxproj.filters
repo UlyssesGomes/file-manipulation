@@ -21,12 +21,6 @@
     <ClCompile Include="IOteste.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="XMLNode.cpp">
-      <Filter>Arquivos de Origem</Filter>
-    </ClCompile>
-    <ClCompile Include="XMLReader.cpp">
-      <Filter>Arquivos de Origem</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IODataFile.h">
@@ -36,12 +30,6 @@
       <Filter>Arquivos de Recurso</Filter>
     </ClInclude>
     <ClInclude Include="IOFileException.h">
-      <Filter>Arquivos de Recurso</Filter>
-    </ClInclude>
-    <ClInclude Include="XMLNode.h">
-      <Filter>Arquivos de Recurso</Filter>
-    </ClInclude>
-    <ClInclude Include="XMLReader.h">
       <Filter>Arquivos de Recurso</Filter>
     </ClInclude>
   </ItemGroup>

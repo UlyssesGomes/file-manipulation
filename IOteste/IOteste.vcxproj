@@ -141,15 +141,11 @@
   <ItemGroup>
     <ClCompile Include="IODataFile.cpp" />
     <ClCompile Include="IOteste.cpp" />
-    <ClCompile Include="XMLNode.cpp" />
-    <ClCompile Include="XMLReader.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IODataFile.h" />
     <ClInclude Include="IOFileException.h" />
     <ClInclude Include="User.h" />
-    <ClInclude Include="XMLNode.h" />
-    <ClInclude Include="XMLReader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
