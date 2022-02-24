@@ -13,7 +13,6 @@ using std::string;
 class IODataFileTest : public ::testing::Test
 {
 protected:
-
     void SetUp() override
     {
         // Code here will be called immediately after the constructor (right

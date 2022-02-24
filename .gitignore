@@ -31,6 +31,9 @@
 *.out
 *.app
 
+# Release Files
+Release/
+
 # Debug Files
 Debug/
 .vs/
